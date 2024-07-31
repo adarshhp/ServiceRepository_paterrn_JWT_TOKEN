@@ -1,0 +1,6 @@
+@TVM_HostAddress = http://localhost:5259
+
+GET {{TVM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
